@@ -21,3 +21,5 @@ git clone https://github.com/your-username/notetaker.git
 -Navigate to the project directory:
 
 cd notetaker
+
+author name -Avanish Vishwakarma
